@@ -55,7 +55,7 @@ A lightweight, object-oriented state machine implementation in Python with many 
 
 ## Quickstart
 
-They say [a good example is worth](https://www.google.com/webhp?ie=UTF-8#q=%22a+good+example+is+worth%22&start=20) 100 pages of API documentation, a million directives, or a thousand words.
+They say [a good example is worth](https://www.google.com/search?q=a+good+example+is+worth) 100 pages of API documentation, a million directives, or a thousand words.
 
 Well, "they" probably lie... but here's an example anyway:
 
